@@ -1,5 +1,6 @@
 # Capstone Project: A Name-Based Race Classifier Using Name Embedding and Collaborations in Academia
 My capstone thesis is computational social sience at New York University Abu Dhabi
+
 Supervisors: Talal Rahwan, Bedoor AlShebli, Fengyuan "Michael" Liu
 
 ### Abstract
