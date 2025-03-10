@@ -10,3 +10,5 @@ To fill this gap, we propose a novel approach for race classification, using nam
 
 ### Other files
 Most of the work was performed on NYUAD HPC "jubail" hence cannot be presented here (big files, a lot of data).
+
+![](./code_local_computer/name_embedding_visualizations/results/OlympicsFirstNames_1.png)
